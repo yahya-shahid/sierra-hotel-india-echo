@@ -12,7 +12,7 @@ This project uses a Convolutional Neural Network (CNN) to classify plant leaf di
 ## Setup (Local)
 
 1. Clone the repo:
-   git clone https://github.com/YOUR_USERNAME/plant-disease-detection
+   git clone https://github.com/yahya-shahid/sierra-hotel-india-echo
 
 2. Create a virtual environment:
    python -m venv venv
